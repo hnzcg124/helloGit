@@ -6,6 +6,7 @@ package comm.aaa;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("teset...");
-        System.out.println("...");
+        System.out.println("test2");
+
     }
 }
