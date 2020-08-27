@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("test2");
         System.out.println("分支1");
         System.out.println("主干代码测试，增加...");
+        System.out.println("分支代码.增加...");
     }
 }
