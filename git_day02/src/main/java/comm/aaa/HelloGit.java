@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("主干代码测试，增加...");
         System.out.println("分支代码.增加...");
         System.out.println("在线编辑代码更改!!!...");
+        System.out.println("新用户添加..");
     }
 }
